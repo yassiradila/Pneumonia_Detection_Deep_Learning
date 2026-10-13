@@ -9,8 +9,8 @@ Thank you for your interest in contributing to this project! We welcome improvem
 
 2. **Clone your Fork**:
    ```bash
-   git clone https://github.com/<your-username>/Pneumonia-Detection-InceptionV3.git
-   cd Pneumonia-Detection-InceptionV3
+   git clone https://github.com/yassiradila/Pneumonia_Detection_Deep_Learning.git
+   cd Pneumonia_Detection_Deep_Learning
    ```
 
 3. **Create a Feature Branch**:

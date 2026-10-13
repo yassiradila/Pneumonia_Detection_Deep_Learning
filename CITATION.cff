@@ -19,7 +19,7 @@ authors:
   - family-names: "Hayoun"
     given-names: "Aymane"
     affiliation: "ENSA Tétouan"
-repository-code: "https://github.com/yassir-adila/Pneumonia-Detection-InceptionV3"
+repository-code: "https://github.com/yassiradila/Pneumonia_Detection_Deep_Learning"
 keywords:
   - "deep-learning"
   - "pneumonia-detection"

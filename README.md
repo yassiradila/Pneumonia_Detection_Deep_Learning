@@ -6,7 +6,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13%2B-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-3.0%2B-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![CI Status](https://img.shields.io/badge/CI-Passing-22c55e?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![CI Status](https://img.shields.io/badge/CI-Passing-22c55e?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/yassiradila/Pneumonia_Detection_Deep_Learning/actions)
 [![Dataset](https://img.shields.io/badge/Kaggle-Chest%20X--Ray-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 [![Institution](https://img.shields.io/badge/ENSA%20T%C3%A9touan-Big%20Data%20%26%20AI-6366f1?style=for-the-badge)](https://ensa.uae.ac.ma)
 
@@ -207,8 +207,8 @@ pneumonia-detection-inceptionv3/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Pneumonia-Detection-InceptionV3.git
-cd Pneumonia-Detection-InceptionV3
+git clone https://github.com/yassiradila/Pneumonia_Detection_Deep_Learning.git
+cd Pneumonia_Detection_Deep_Learning
 ```
 
 ### 2. Create and Activate Virtual Environment
@@ -338,7 +338,7 @@ If you use this repository or its findings in your research or academic work, pl
   title        = {Pneumonia Detection from Chest X-Ray Images using Transfer Learning (InceptionV3)},
   year         = {2024},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/yassir-adila/Pneumonia-Detection-InceptionV3}},
+  howpublished = {\url{https://github.com/yassiradila/Pneumonia_Detection_Deep_Learning}},
   institution  = {Ecole Nationale des Sciences Appliquees de Tetouan (ENSA Tetouan)}
 }
 ```
