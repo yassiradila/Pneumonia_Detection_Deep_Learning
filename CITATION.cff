@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you utilize this repository, model, or report in your research or project, please cite it as below."
+title: "Pneumonia Detection from Chest X-Ray Images using Transfer Learning (InceptionV3)"
+version: 1.0.0
+date-released: 2024-06-20
+authors:
+  - family-names: "Adila"
+    given-names: "Yassir"
+    affiliation: "National School of Applied Sciences of Tetouan (ENSA Tétouan)"
+  - family-names: "Channa"
+    given-names: "Mohamed"
+    affiliation: "ENSA Tétouan"
+  - family-names: "Azaagag"
+    given-names: "Aymane"
+    affiliation: "ENSA Tétouan"
+  - family-names: "Abrini"
+    given-names: "Mohamed"
+    affiliation: "ENSA Tétouan"
+  - family-names: "Hayoun"
+    given-names: "Aymane"
+    affiliation: "ENSA Tétouan"
+repository-code: "https://github.com/yassir-adila/Pneumonia-Detection-InceptionV3"
+keywords:
+  - "deep-learning"
+  - "pneumonia-detection"
+  - "inceptionv3"
+  - "medical-imaging"
+  - "chest-xray"
+  - "transfer-learning"
+license: "MIT"

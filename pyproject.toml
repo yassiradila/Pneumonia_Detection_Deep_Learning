@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pneumonia-detection-inceptionv3"
+version = "1.0.0"
+description = "Deep Learning framework for automated Pneumonia Detection from chest X-rays using Transfer Learning with InceptionV3."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+  { name = "Yassir Adila", email = "contact@ensat.ac.ma" },
+  { name = "Mohamed Channa" },
+  { name = "Aymane Azaagag" },
+  { name = "Mohamed Abrini" },
+  { name = "Aymane Hayoun" }
+]
+keywords = [
+  "deep-learning",
+  "pneumonia-detection",
+  "inceptionv3",
+  "transfer-learning",
+  "computer-vision",
+  "medical-imaging",
+  "chest-xray",
+  "tensorflow",
+  "keras"
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Healthcare Industry",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Scientific/Engineering :: Medical Science Apps.",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11"
+]
+dependencies = [
+  "tensorflow>=2.13.0",
+  "numpy>=1.23.0",
+  "scikit-learn>=1.2.0",
+  "pillow>=9.5.0",
+  "matplotlib>=3.7.0",
+  "seaborn>=0.12.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.3.0",
+  "flake8>=6.0.0",
+  "black>=23.3.0",
+  "ipykernel>=6.20.0"
+]
+
+[project.urls]
+"Academic Institution" = "https://ensa.uae.ac.ma"
+"Dataset" = "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia"

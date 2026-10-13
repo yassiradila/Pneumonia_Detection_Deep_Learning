@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+*.stackdump
+
+# Deep Learning weights and checkpoints (large binary files)
+# To share model weights, upload them to GitHub Releases or Hugging Face Models
+*.h5
+*.keras
+*.weights.h5
+*.ckpt*
+*.pb
+*.tflite
+*.onnx
+best_model.h5
+my_model.keras
+checkpoints/
+
+# Raw and Processed Datasets (Do not commit gigabytes of X-ray images)
+data/
+chest_xray/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# Testing and Profiling
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Logs and TensorBoard
+logs/
+*.log
